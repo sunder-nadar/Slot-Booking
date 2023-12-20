@@ -31,17 +31,19 @@ Follow these steps to set up and run the Slot Booking App:
    
   ```bash
   cd slot-booking
-  
+```
+
 3. **Install dependencies:**
 
   ```bash
   npm install
+```
   
 4. **Start project**
 
   ```bash
   npm start
-
+```
 
  ## Usage
 
