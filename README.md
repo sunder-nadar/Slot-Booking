@@ -31,8 +31,7 @@ Follow these steps to set up and run the Slot Booking App:
    
   ```bash
   cd slot-booking
-
-
+  
 3. **Install dependencies:**
 
   ```bash
@@ -56,6 +55,7 @@ Follow these steps to set up and run the Slot Booking App:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
 
 ![Screenshot 2023-12-20 140609](https://github.com/sunder-nadar/Slot-Booking/assets/95963664/c048592a-6f66-464f-a53f-0fd402d13784)
+
 
 
 
