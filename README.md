@@ -28,15 +28,19 @@ Follow these steps to set up and run the Slot Booking App:
    git clone https://github.com/sunder-nadar/slot-booking.git
 
 2. **Navigate the project directory:**
-
+   
+  ```bash
   cd slot-booking
-  
+
+
 3. **Install dependencies:**
 
+  ```bash
   npm install
   
 4. **Start project**
 
+  ```bash
   npm start
 
 
